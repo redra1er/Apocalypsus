@@ -1,0 +1,1004 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "alexsmobs:skelewag_sword": [
+      2895,
+      0.7804518
+    ],
+    "alexsmobs:tendon_whip": [
+      3192,
+      0.0469
+    ],
+    "create_sa:blazing_axe": [
+      2761,
+      0.95369714
+    ],
+    "create_sa:blazing_cleaver": [
+      2819,
+      0.8790464
+    ],
+    "create_sa:brass_axe": [
+      2744,
+      0.9755281
+    ],
+    "create_sa:brass_sword": [
+      2852,
+      0.8363856
+    ],
+    "create_sa:copper_axe": [
+      3349,
+      0.031199997
+    ],
+    "create_sa:copper_sword": [
+      3412,
+      0.024899999
+    ],
+    "create_sa:experience_axe": [
+      3112,
+      0.46648473
+    ],
+    "create_sa:experience_sword": [
+      3148,
+      0.36782715
+    ],
+    "create_sa:rose_quartz_axe": [
+      715,
+      5.322494
+    ],
+    "create_sa:rose_quartz_sword": [
+      748,
+      5.2525306
+    ],
+    "create_sa:zinc_axe": [
+      3084,
+      0.51635593
+    ],
+    "create_sa:zinc_sword": [
+      3209,
+      0.045199998
+    ],
+    "immersive_weathering:ice_sickle": [
+      3566,
+      0.0095
+    ],
+    "mcore:steel_axe": [
+      856,
+      5.022479
+    ],
+    "mcore:steel_sword": [
+      943,
+      4.8356147
+    ],
+    "mcore:titanium_axe": [
+      3084,
+      0.51635593
+    ],
+    "mcore:titanium_sword": [
+      3146,
+      0.37663084
+    ],
+    "minecraft:bow": [
+      1093,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      1387,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      856,
+      5.022479
+    ],
+    "minecraft:diamond_pickaxe": [
+      2895,
+      0.7804518
+    ],
+    "minecraft:diamond_sword": [
+      918,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      2061,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      3517,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      3580,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      3084,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      3171,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      2161,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      20,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      90,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      3111,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      2161,
+      1.7269388
+    ],
+    "tfmg:aluminum_axe": [
+      3135,
+      0.4136078
+    ],
+    "tfmg:aluminum_sword": [
+      3222,
+      0.043899998
+    ],
+    "tfmg:lead_axe": [
+      3503,
+      0.0158
+    ],
+    "tfmg:lead_sword": [
+      3572,
+      0.0089
+    ],
+    "tfmg:lit_lithium_blade": [
+      1842,
+      2.1445646
+    ],
+    "tfmg:lithium_blade": [
+      1871,
+      2.1063945
+    ],
+    "tfmg:steel_axe": [
+      1772,
+      2.236861
+    ],
+    "tfmg:steel_sword": [
+      1871,
+      2.1063945
+    ]
+  },
+  "OFFHAND": {
+    "minecraft:shield": [
+      353,
+      1.6255897
+    ]
+  },
+  "FEET": {
+    "alexsmobs:flying_fish_boots": [
+      2345,
+      0.014099999
+    ],
+    "alexsmobs:roadrunner_boots": [
+      1783,
+      0.6972618
+    ],
+    "create:copper_diving_boots": [
+      1912,
+      0.5113901
+    ],
+    "create:netherite_diving_boots": [
+      851,
+      1.9030677
+    ],
+    "create_sa:brass_boots": [
+      1180,
+      1.4754212
+    ],
+    "create_sa:copper_boots": [
+      1552,
+      0.9973453
+    ],
+    "create_sa:slime_boots": [
+      1506,
+      1.0563377
+    ],
+    "create_sa:zinc_boots": [
+      1401,
+      1.1909808
+    ],
+    "marbledsarsenal:acacia_ghillie_boots": [
+      2156,
+      0.033
+    ],
+    "marbledsarsenal:azalea_ghillie_boots": [
+      2156,
+      0.033
+    ],
+    "marbledsarsenal:birch_ghillie_boots": [
+      2156,
+      0.033
+    ],
+    "marbledsarsenal:black_juggernaut_armor_boots": [
+      19,
+      4.2829432
+    ],
+    "marbledsarsenal:catmaid_juggernaut_armor_boots": [
+      19,
+      4.2829432
+    ],
+    "marbledsarsenal:cherry_ghillie_boots": [
+      2156,
+      0.033
+    ],
+    "marbledsarsenal:dark_oak_ghillie_boots": [
+      2156,
+      0.033
+    ],
+    "marbledsarsenal:desert_military_armor_boots": [
+      519,
+      2.3399715
+    ],
+    "marbledsarsenal:hazmat_armor_boots": [
+      2138,
+      0.0348
+    ],
+    "marbledsarsenal:jungle_ghillie_boots": [
+      2156,
+      0.033
+    ],
+    "marbledsarsenal:mangrove_ghillie_boots": [
+      2156,
+      0.033
+    ],
+    "marbledsarsenal:oak_ghillie_boots": [
+      2156,
+      0.033
+    ],
+    "marbledsarsenal:olive_juggernaut_armor_boots": [
+      19,
+      4.2829432
+    ],
+    "marbledsarsenal:riot_armor_boots": [
+      887,
+      1.8560115
+    ],
+    "marbledsarsenal:spruce_ghillie_boots": [
+      2156,
+      0.033
+    ],
+    "marbledsarsenal:swat_armor_boots": [
+      887,
+      1.8560115
+    ],
+    "marbledsarsenal:winter_military_armor_boots": [
+      519,
+      2.3399715
+    ],
+    "mcore:steel_boots": [
+      1316,
+      1.3001564
+    ],
+    "mcore:titanium_boots": [
+      648,
+      2.1695936
+    ],
+    "minecraft:chainmail_boots": [
+      1894,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      978,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      1960,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      1646,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      2242,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      851,
+      1.9030677
+    ],
+    "pneumaticcraft:compressed_iron_boots": [
+      1332,
+      1.2795873
+    ],
+    "pneumaticcraft:pneumatic_boots": [
+      1262,
+      1.3696512
+    ],
+    "survive:stiffened_honey_boots": [
+      2410,
+      0.0075999997
+    ],
+    "survive:wool_boots": [
+      2410,
+      0.0075999997
+    ],
+    "tfmg:steel_boots": [
+      487,
+      2.3823528
+    ]
+  },
+  "LEGS": {
+    "alexsmobs:centipede_leggings": [
+      243,
+      3.9059477
+    ],
+    "alexsmobs:emu_leggings": [
+      1478,
+      1.173019
+    ],
+    "create_sa:brass_leggings": [
+      1243,
+      1.4754212
+    ],
+    "create_sa:copper_leggings": [
+      1615,
+      0.9973453
+    ],
+    "create_sa:zinc_leggings": [
+      1464,
+      1.1909808
+    ],
+    "marbledsarsenal:acacia_ghillie_leggings": [
+      2204,
+      0.0345
+    ],
+    "marbledsarsenal:azalea_ghillie_leggings": [
+      2204,
+      0.0345
+    ],
+    "marbledsarsenal:birch_ghillie_leggings": [
+      2204,
+      0.0345
+    ],
+    "marbledsarsenal:black_juggernaut_armor_leggings": [
+      19,
+      4.4243336
+    ],
+    "marbledsarsenal:catmaid_juggernaut_armor_leggings": [
+      19,
+      4.4243336
+    ],
+    "marbledsarsenal:cherry_ghillie_leggings": [
+      2204,
+      0.0345
+    ],
+    "marbledsarsenal:dark_oak_ghillie_leggings": [
+      2204,
+      0.0345
+    ],
+    "marbledsarsenal:desert_military_armor_leggings": [
+      528,
+      2.88177
+    ],
+    "marbledsarsenal:hazmat_armor_leggings": [
+      2181,
+      0.036799997
+    ],
+    "marbledsarsenal:jungle_ghillie_leggings": [
+      2204,
+      0.0345
+    ],
+    "marbledsarsenal:mangrove_ghillie_leggings": [
+      2204,
+      0.0345
+    ],
+    "marbledsarsenal:oak_ghillie_leggings": [
+      2204,
+      0.0345
+    ],
+    "marbledsarsenal:olive_juggernaut_armor_leggings": [
+      19,
+      4.4243336
+    ],
+    "marbledsarsenal:riot_armor_leggings": [
+      910,
+      1.9083
+    ],
+    "marbledsarsenal:spruce_ghillie_leggings": [
+      2204,
+      0.0345
+    ],
+    "marbledsarsenal:swat_armor_leggings": [
+      910,
+      1.9083
+    ],
+    "marbledsarsenal:winter_military_armor_leggings": [
+      528,
+      2.88177
+    ],
+    "mcore:steel_leggings": [
+      1328,
+      1.3657873
+    ],
+    "mcore:titanium_leggings": [
+      686,
+      2.2025528
+    ],
+    "minecraft:chainmail_leggings": [
+      1957,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      1041,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      2023,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      1709,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      2305,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      914,
+      1.9030677
+    ],
+    "pneumaticcraft:compressed_iron_leggings": [
+      1395,
+      1.2795873
+    ],
+    "pneumaticcraft:pneumatic_leggings": [
+      1325,
+      1.3696512
+    ],
+    "survive:stiffened_honey_leggings": [
+      2473,
+      0.0075999997
+    ],
+    "survive:wool_pants": [
+      2473,
+      0.0075999997
+    ],
+    "tfmg:steel_leggings": [
+      550,
+      2.3823528
+    ]
+  },
+  "CHEST": {
+    "alexsmobs:crocodile_chestplate": [
+      1229,
+      1.4444326
+    ],
+    "alexsmobs:rocky_chestplate": [
+      1308,
+      1.3426114
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      1656,
+      0.89580816
+    ],
+    "alexsmobs:unsettling_kimono": [
+      1879,
+      0.59963983
+    ],
+    "create:copper_backtank": [
+      1937,
+      0.5113901
+    ],
+    "create:netherite_backtank": [
+      876,
+      1.9030677
+    ],
+    "create_sa:andesite_exoskeleton_chestplate": [
+      742,
+      2.0787795
+    ],
+    "create_sa:andesite_jetpack_chestplate": [
+      866,
+      1.9161502
+    ],
+    "create_sa:brass_chestplate": [
+      1205,
+      1.4754212
+    ],
+    "create_sa:brass_exoskeleton_chestplate": [
+      515,
+      2.3783777
+    ],
+    "create_sa:brass_jetpack_chestplate": [
+      784,
+      2.0236118
+    ],
+    "create_sa:copper_chestplate": [
+      1577,
+      0.9973453
+    ],
+    "create_sa:copper_exoskeleton_chestplate": [
+      866,
+      1.9161502
+    ],
+    "create_sa:copper_jetpack_chestplate": [
+      866,
+      1.9161502
+    ],
+    "create_sa:zinc_chestplate": [
+      1426,
+      1.1909808
+    ],
+    "marbledsarsenal:acacia_ghillie_chestplate": [
+      2175,
+      0.0336
+    ],
+    "marbledsarsenal:azalea_ghillie_chestplate": [
+      2175,
+      0.0336
+    ],
+    "marbledsarsenal:birch_ghillie_chestplate": [
+      2175,
+      0.0336
+    ],
+    "marbledsarsenal:black_juggernaut_armor_chestplate": [
+      19,
+      4.339341
+    ],
+    "marbledsarsenal:black_plate_carrier_heavy": [
+      1080,
+      1.6372684
+    ],
+    "marbledsarsenal:black_plate_carrier_light": [
+      1405,
+      1.2179327
+    ],
+    "marbledsarsenal:catmaid_juggernaut_armor_chestplate": [
+      19,
+      4.339341
+    ],
+    "marbledsarsenal:cherry_ghillie_chestplate": [
+      2175,
+      0.0336
+    ],
+    "marbledsarsenal:dark_oak_ghillie_chestplate": [
+      2175,
+      0.0336
+    ],
+    "marbledsarsenal:desert_military_armor_chestplate": [
+      522,
+      2.369104
+    ],
+    "marbledsarsenal:hazmat_armor_chestplate": [
+      2155,
+      0.0356
+    ],
+    "marbledsarsenal:jungle_ghillie_chestplate": [
+      2175,
+      0.0336
+    ],
+    "marbledsarsenal:mangrove_ghillie_chestplate": [
+      2175,
+      0.0336
+    ],
+    "marbledsarsenal:oak_ghillie_chestplate": [
+      2175,
+      0.0336
+    ],
+    "marbledsarsenal:olive_juggernaut_armor_chestplate": [
+      19,
+      4.339341
+    ],
+    "marbledsarsenal:olive_plate_carrier_heavy": [
+      1080,
+      1.6372684
+    ],
+    "marbledsarsenal:olive_plate_carrier_light": [
+      1405,
+      1.2179327
+    ],
+    "marbledsarsenal:riot_armor_chestplate": [
+      896,
+      1.8769172
+    ],
+    "marbledsarsenal:spruce_ghillie_chestplate": [
+      2175,
+      0.0336
+    ],
+    "marbledsarsenal:swat_armor_chestplate": [
+      896,
+      1.8769172
+    ],
+    "marbledsarsenal:winter_military_armor_chestplate": [
+      522,
+      2.369104
+    ],
+    "mcore:steel_chestplate": [
+      1320,
+      1.3271681
+    ],
+    "mcore:titanium_chestplate": [
+      662,
+      2.1840923
+    ],
+    "minecraft:chainmail_chestplate": [
+      1919,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      1003,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      1985,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      1671,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      2267,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      876,
+      1.9030677
+    ],
+    "pneumaticcraft:compressed_iron_chestplate": [
+      1357,
+      1.2795873
+    ],
+    "pneumaticcraft:pneumatic_chestplate": [
+      1287,
+      1.3696512
+    ],
+    "survive:stiffened_honey_chestplate": [
+      2435,
+      0.0075999997
+    ],
+    "survive:wool_jacket": [
+      2435,
+      0.0075999997
+    ],
+    "tfmg:steel_chestplate": [
+      512,
+      2.3823528
+    ]
+  },
+  "HEAD": {
+    "alexsmobs:fedora": [
+      2143,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      1837,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      1930,
+      0.62781405
+    ],
+    "alexsmobs:moose_headgear": [
+      1828,
+      0.7647448
+    ],
+    "alexsmobs:novelty_hat": [
+      2143,
+      0.043899998
+    ],
+    "alexsmobs:sombrero": [
+      2114,
+      0.0468
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      1578,
+      1.0871058
+    ],
+    "create:copper_diving_helmet": [
+      2008,
+      0.5113901
+    ],
+    "create:netherite_diving_helmet": [
+      947,
+      1.9030677
+    ],
+    "create_sa:brass_helmet": [
+      1276,
+      1.4754212
+    ],
+    "create_sa:copper_helmet": [
+      1648,
+      0.9973453
+    ],
+    "create_sa:slime_helmet": [
+      1602,
+      1.0563377
+    ],
+    "create_sa:zinc_helmet": [
+      1497,
+      1.1909808
+    ],
+    "immersive_weathering:flower_crown": [
+      2222,
+      0.036
+    ],
+    "marbledsarsenal:acacia_ghillie_helmet": [
+      2229,
+      0.035299998
+    ],
+    "marbledsarsenal:azalea_ghillie_helmet": [
+      2229,
+      0.035299998
+    ],
+    "marbledsarsenal:birch_ghillie_helmet": [
+      2229,
+      0.035299998
+    ],
+    "marbledsarsenal:black_gp5_gas_mask": [
+      1599,
+      1.0601839
+    ],
+    "marbledsarsenal:black_juggernaut_armor_helmet": [
+      19,
+      4.4975233
+    ],
+    "marbledsarsenal:black_military_beret": [
+      1641,
+      1.0063256
+    ],
+    "marbledsarsenal:catmaid_juggernaut_armor_helmet": [
+      19,
+      4.4975233
+    ],
+    "marbledsarsenal:cherry_ghillie_helmet": [
+      2229,
+      0.035299998
+    ],
+    "marbledsarsenal:cm6m_gas_mask": [
+      1599,
+      1.0601839
+    ],
+    "marbledsarsenal:cm7m_gas_mask": [
+      1599,
+      1.0601839
+    ],
+    "marbledsarsenal:cm8m_gas_mask": [
+      1599,
+      1.0601839
+    ],
+    "marbledsarsenal:combat_helmet": [
+      1442,
+      1.2615967
+    ],
+    "marbledsarsenal:dark_oak_ghillie_helmet": [
+      2229,
+      0.035299998
+    ],
+    "marbledsarsenal:desert_military_armor_helmet": [
+      533,
+      3.095307
+    ],
+    "marbledsarsenal:hazmat_armor_helmet": [
+      2204,
+      0.0378
+    ],
+    "marbledsarsenal:helmet_cm6m_gas_mask": [
+      1442,
+      1.2615967
+    ],
+    "marbledsarsenal:helmet_cm7m_gas_mask": [
+      1442,
+      1.2615967
+    ],
+    "marbledsarsenal:helmet_cm8m_gas_mask": [
+      1442,
+      1.2615967
+    ],
+    "marbledsarsenal:jungle_ghillie_helmet": [
+      2229,
+      0.035299998
+    ],
+    "marbledsarsenal:mangrove_ghillie_helmet": [
+      2229,
+      0.035299998
+    ],
+    "marbledsarsenal:oak_ghillie_helmet": [
+      2229,
+      0.035299998
+    ],
+    "marbledsarsenal:olive_combat_helmet": [
+      1442,
+      1.2615967
+    ],
+    "marbledsarsenal:olive_helmet_cm6m_gas_mask": [
+      1442,
+      1.2615967
+    ],
+    "marbledsarsenal:olive_helmet_cm7m_gas_mask": [
+      1442,
+      1.2615967
+    ],
+    "marbledsarsenal:olive_helmet_cm8m_gas_mask": [
+      1442,
+      1.2615967
+    ],
+    "marbledsarsenal:olive_juggernaut_armor_helmet": [
+      19,
+      4.4975233
+    ],
+    "marbledsarsenal:red_military_beret": [
+      1641,
+      1.0063256
+    ],
+    "marbledsarsenal:riot_armor_helmet": [
+      922,
+      1.9357834
+    ],
+    "marbledsarsenal:spruce_ghillie_helmet": [
+      2229,
+      0.035299998
+    ],
+    "marbledsarsenal:swat_armor_helmet": [
+      922,
+      1.9357834
+    ],
+    "marbledsarsenal:un_combat_helmet": [
+      1442,
+      1.2615967
+    ],
+    "marbledsarsenal:un_helmet_cm6m_gas_mask": [
+      1442,
+      1.2615967
+    ],
+    "marbledsarsenal:un_helmet_cm7m_gas_mask": [
+      1442,
+      1.2615967
+    ],
+    "marbledsarsenal:un_helmet_cm8m_gas_mask": [
+      1442,
+      1.2615967
+    ],
+    "marbledsarsenal:un_military_beret": [
+      1641,
+      1.0063256
+    ],
+    "marbledsarsenal:white_gp5_gas_mask": [
+      1599,
+      1.0601839
+    ],
+    "marbledsarsenal:winter_military_armor_helmet": [
+      533,
+      3.095307
+    ],
+    "mcore:steel_helmet": [
+      1334,
+      1.4005771
+    ],
+    "mcore:titanium_helmet": [
+      706,
+      2.2197032
+    ],
+    "minecraft:chainmail_helmet": [
+      1990,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      1074,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      2056,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      1742,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      2338,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      947,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      1686,
+      0.948558
+    ],
+    "pneumaticcraft:compressed_iron_helmet": [
+      1428,
+      1.2795873
+    ],
+    "pneumaticcraft:pneumatic_helmet": [
+      1358,
+      1.3696512
+    ],
+    "railways:black_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:blue_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:brown_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:cyan_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:gray_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:green_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:light_blue_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:light_gray_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:lime_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:magenta_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:orange_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:pink_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:purple_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:red_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:white_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "railways:yellow_conductor_cap": [
+      1952,
+      0.59678036
+    ],
+    "survive:stiffened_honey_helmet": [
+      2506,
+      0.0075999997
+    ],
+    "survive:wool_hat": [
+      2506,
+      0.0075999997
+    ],
+    "tfmg:steel_helmet": [
+      583,
+      2.3823528
+    ]
+  }
+}
